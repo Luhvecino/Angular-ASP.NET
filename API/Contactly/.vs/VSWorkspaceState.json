@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Contactly",
+    "\\Contactly\\Controllers",
+    "\\Contactly\\Data",
+    "\\Contactly\\Models",
+    "\\Contactly\\Models\\Domain",
+    "\\Contactly\\obj",
+    "\\Contactly\\Properties"
+  ],
+  "SelectedNode": "\\Contactly\\Properties\\launchSettings.json",
+  "PreviewInSolutionExplorer": false
+}
