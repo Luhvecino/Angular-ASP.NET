@@ -87,10 +87,10 @@ C:\Users\Lucas\Projetos\Sameer Saini full Course\API\Contactly\Contactly\obj\Deb
 C:\Users\Lucas\Projetos\Sameer Saini full Course\API\Contactly\Contactly\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Contactly.props
 C:\Users\Lucas\Projetos\Sameer Saini full Course\API\Contactly\Contactly\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Contactly.props
 C:\Users\Lucas\Projetos\Sameer Saini full Course\API\Contactly\Contactly\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Lucas\Projetos\Sameer Saini full Course\API\Contactly\Contactly\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Lucas\Projetos\Sameer Saini full Course\API\Contactly\Contactly\obj\Debug\net8.0\Contactly.csproj.Up2Date
 C:\Users\Lucas\Projetos\Sameer Saini full Course\API\Contactly\Contactly\obj\Debug\net8.0\Contactly.dll
 C:\Users\Lucas\Projetos\Sameer Saini full Course\API\Contactly\Contactly\obj\Debug\net8.0\refint\Contactly.dll
 C:\Users\Lucas\Projetos\Sameer Saini full Course\API\Contactly\Contactly\obj\Debug\net8.0\Contactly.pdb
 C:\Users\Lucas\Projetos\Sameer Saini full Course\API\Contactly\Contactly\obj\Debug\net8.0\Contactly.genruntimeconfig.cache
 C:\Users\Lucas\Projetos\Sameer Saini full Course\API\Contactly\Contactly\obj\Debug\net8.0\ref\Contactly.dll
+C:\Users\Lucas\Projetos\Sameer Saini full Course\API\Contactly\Contactly\obj\Debug\net8.0\Contactly.sourcelink.json
